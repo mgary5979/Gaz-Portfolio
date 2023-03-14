@@ -28,8 +28,8 @@ import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
-import logo from '../assets/logo.png';
-import Glogo from '../assets/Glogo.png';
+
+import GM from '../assets/GM.png';
 import favicon from '../assets/favicon.png';
 import Newlogo from '../assets/Newlogo.png';
 
@@ -71,7 +71,7 @@ export default {
   about03,
   about04,
   circle,
-  logo,
+  
   adidas,
   amazon,
   asus,
@@ -79,7 +79,7 @@ export default {
   nb,
   skype,
   spotify,
-  Glogo,
+  GM,
   favicon,
   Newlogo,
   chilledCatBlog,
